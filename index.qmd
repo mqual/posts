@@ -16,5 +16,5 @@ sidebar: posts
 ::: {.column-margin}
 ![](profile.webp){height=400px}
 
-This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links on the bottom.
+This image carefuly depicts the objective reality of this blog.
 :::

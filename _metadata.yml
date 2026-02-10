@@ -17,4 +17,4 @@ format:
     comments:
       hypothesis: true
       giscus:
-        repo: mangoqualitee/posts
+        repo: mqual/posts
