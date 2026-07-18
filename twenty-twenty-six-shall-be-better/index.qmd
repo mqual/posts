@@ -1,0 +1,35 @@
+---
+title: Twenty Twenty Six shall be better
+date: 2026-07-18
+author: "Vishal"
+
+title-block-banner: ./lotus-sunrise.png
+---
+
+The title of this post is made unambiguous by the following reflection: Depth comes from creativity, creativity comes from study. I wish to say that so far this year has not been one of no study.
+
+# What's wrong
+
+Some of the values I have in my [[Life Principles]] are as follows:
+
+1. Creativity
+2. Consistency
+3. Depth
+4. Persistence
+5. Fasting
+6. Sprinting
+
+Some of these are overlapping, some of these are strictly complementary. Some of these are spiritually natural, yet others are `disciplinal`.
+
+This year I had one goal: Becoming a better game developer. But writing out goals is one way of losing fuel forever.
+
+# Climb up  
+
+The year is not over. There is still time to bootstrap the courage, displine, and delusion. Writing it out -- inconsistently -- is the way to lose fuel. Writing it out -- consistently -- is the way to bootstrap fuel.
+
+::::: {#fig-lotus-sunrise}
+![](./lotus-sunrise.png)
+
+Lotus Sunrise
+:::::
+         

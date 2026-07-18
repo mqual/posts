@@ -1,9 +1,15 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-04-18"
+author: "Vishal"
+date: 2025-04-18
 categories: [news]
 title-block-banner: ./thumbnail.webp
 ---
 
 This blog is the place where I will share my articulations with the people of the world.
+
+::::: {#fig-namaste}
+![](./namaste.webp)
+
+Namaskar
+:::::

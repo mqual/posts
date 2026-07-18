@@ -7,10 +7,10 @@ format:
     other-links:
       - text: Twitter
         icon: twitter
-        href: https://twitter.com/gyanantaran
+        href: https://twitter.com/0haxfn
       - text: All Posts
         icon: house
-        href: /posts/index.qmd
+        href: /posts/index.html
       - text: RSS
         icon: rss
         href: /posts/index.xml

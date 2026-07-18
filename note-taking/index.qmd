@@ -1,6 +1,7 @@
 ---
 title: Note Taking
 date: 2025-05-23
+author: "Vishal"
 ---
 
 I wished when I was in 5th grade that all the heavy books in my bag would vanish. I wished when I was in 2nd year of College that all of my pdfs would become a physical book. I lost energy, time in this conflict till I had no thoughts on this. Momentarilly I am flowing with the digital.
@@ -39,3 +40,9 @@ Learn org mode because I was thinking of making my own format.
 ::: {.callout-important}
 # LessWrong - The Zettelekasten Method [§](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
 :::
+
+::::: {#fig-p12prob}
+![](./note-taking.png)
+
+Note Taking
+:::::
